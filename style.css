@@ -12,7 +12,8 @@
     color: beige;
     background-color: darkgray;
     max-width: 1200px; /* Corregido el error de xp a px */
-    margin: 0 auto; /* Centra la caja horizontalmente */
+    margin: auto; /* Centra la caja horizontalmente */
+        
 }
 
 .mundo{
@@ -23,6 +24,7 @@
     justify-content: center;
     /* border: solid green; */
     gap:  150px;
+    
     
     
     
